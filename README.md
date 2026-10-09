@@ -1,121 +1,128 @@
-```html
-<div align="center">
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:24105A,100:007CF0&text=ABHISHEK%20DAHIYA&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20GENERATIVE%20AI&descAlignY=58&descSize=14&animation=fadeIn" /><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React.js+%7C+Node.js+%7C+Express.js;Building+Modern+Web+Applications;Exploring+Generative+AI+%26+RAG" /><p>
+<a href="https://www.linkedin.com/in/abhishek-dahiya-715765266/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:abhishekdahiya281@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/></a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-Profile-7C3AED?style=for-the-badge&logo=github"/></a>
+</p><img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/></div>---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,40:082F49,100:1D4ED8&height=15" />
+👨‍💻 About Me
 
-<br/>
+Hi, I'm Abhishek Dahiya, a Full Stack Developer interested in building modern, secure, and scalable web applications.
 
-<a href="https://github.com/abhishekdahiya01">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=45&duration=3000&pause=1000&color=54D9FF&center=true&vCenter=true&width=850&height=100&lines=Abhishek+Dahiya" alt="Abhishek Dahiya" />
-</a>
+- 💻 Frontend development with React.js and Tailwind CSS.
+- ⚙️ Backend development with Node.js, Express.js, and REST APIs.
+- 🔐 Authentication, authorization, and API security.
+- 🤖 Exploring Generative AI, RAG, and Ollama.
+- 🚀 Interested in modern UI design and immersive 3D websites.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=700&height=45&lines=FULL+STACK+DEVELOPER;Building+Modern+Web+Applications;Backend+Engineering+%7C+Generative+AI" alt="Developer introduction" />
+---
 
-<br/><br/>
+🛠️ Technical Skills
 
-<img src="https://img.shields.io/badge/REACT-00D9FF?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/NODE.JS-22C55E?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/EXPRESS-FFFFFF?style=for-the-badge&logo=express&logoColor=black" />
-<img src="https://img.shields.io/badge/MYSQL-2563EB?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/GENERATIVE_AI-9333EA?style=for-the-badge&logo=ollama&logoColor=white" />
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/abhishek-dahiya-715765266/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/abhishekdahiya01">
-<img src="https://img.shields.io/badge/GitHub-Explore_My_Work-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:abhishekdahiya281@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1D4ED8,50:06B6D4,100:020617&height=4" />
+Frontend Development
 
 <p>
-  <b>Engineering Modern Experiences. Building Scalable Solutions.</b>
-  <br/><br/>
-  <i>Frontend Development • Backend Engineering • AI & RAG</i>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind"/>
+</p>Backend Development
 
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql"/>
+</p>"RESTful APIs" · "MVC Architecture" · "JWT Authentication" · "RBAC" · "bcrypt"
 
----
+Integrations & Libraries
 
-## About Me
+"Razorpay" (https://img.shields.io/badge/Razorpay-Integration-3395FF?style=flat-square)
+"QR Code" (https://img.shields.io/badge/QR-Code%20Generation-7C3AED?style=flat-square)
+"Nodemailer" (https://img.shields.io/badge/Nodemailer-Email%20Services-22C55E?style=flat-square)
 
-I'm **Abhishek Dahiya**, a Full Stack Developer focused on building modern web applications, reliable backend systems, and AI-powered solutions.
+DevOps & Tools
 
-- Frontend development with React, JavaScript, HTML, CSS, and Tailwind CSS.
-- Backend development with Node.js, Express.js, and REST APIs.
-- Database design and integration with MySQL.
-- Authentication, authorization, and payment integration.
-- Exploring Generative AI, RAG, and Ollama.
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,git,github,postman,swagger"/>
+</p>"Agile / Scrum" · "API Testing" · "API Documentation"
 
----
+Generative AI
 
-## Tech Stack
-
-<div align="center">
-
-| Frontend | Backend | Database | Tools & Cloud |
-|:---:|:---:|:---:|:---:|
-| React | Node.js | MySQL | Git |
-| JavaScript | Express.js | MongoDB | GitHub |
-| HTML5 / CSS3 | REST APIs | Redis | Docker |
-| Tailwind CSS | JWT | | Vercel |
-| | | | Kubernetes |
-
-</div>
+"RAG" (https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-7C3AED?style=for-the-badge)
+"Generative AI" (https://img.shields.io/badge/Generative-AI-2563EB?style=for-the-badge)
+"Ollama" (https://img.shields.io/badge/Ollama-Local%20LLMs-111827?style=for-the-badge)
 
 ---
 
-## Featured Project
+📊 GitHub Statistics
 
-### SafarSaathi — Travel Booking Platform
+<div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7C3AED&text_color=FFFFFF" /><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" /><img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&ring=7C3AED&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=AAAAAA" /></div>---
 
-A travel platform project covering flight, train, bus, and hotel booking modules.
+📈 Contribution Graph
 
-- **Frontend:** React.js, Tailwind CSS
-- **Backend:** Node.js, Express.js
-- **Database:** MySQL
-- **Integrations:** JWT authentication and Razorpay
-- **Deployment:** Add your live demo and repository links here.
+<div align="center"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=00D9FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" /></div>---
+
+🚀 Featured Projects
+
+«Replace these examples with your actual project details and repository links.»
+
+<table>
+<tr>
+<td width="50%">💻 Full Stack Web App
+
+A modern web application with a responsive UI and backend APIs.
+
+Tech: React, Node.js, Express, MySQL
+
+"View Repository" (https://github.com/YOUR_GITHUB_USERNAME/PROJECT_1)
+
+</td>
+<td width="50%">🔐 Secure REST API
+
+An API project showcasing authentication and role-based access.
+
+Tech: Node.js, JWT, RBAC, bcrypt, Swagger
+
+"View Repository" (https://github.com/YOUR_GITHUB_USERNAME/PROJECT_2)
+
+</td>
+</tr>
+<tr>
+<td width="50%">🤖 Generative AI Project
+
+An AI application exploring RAG and local language models.
+
+Tech: RAG, Generative AI, Ollama
+
+"View Repository" (https://github.com/YOUR_GITHUB_USERNAME/PROJECT_3)
+
+</td>
+<td width="50%">💳 Payment & QR Integration
+
+A project placeholder for payment processing and QR code generation.
+
+Tech: Razorpay, QR Code, Node.js
+
+"View Repository" (https://github.com/YOUR_GITHUB_USERNAME/PROJECT_4)
+
+</td>
+</tr>
+</table>---
+
+🎯 Current Focus
+
+- ⚡ Building modern full-stack applications.
+- 🔒 Developing secure and scalable backend APIs.
+- 🧠 Exploring RAG and Generative AI.
+- 🌐 Experimenting with React Three Fiber and Three.js.
+- 🎨 Creating premium, interactive developer portfolio experiences.
 
 ---
 
-## GitHub Analytics
+🤝 Connect With Me
 
-<div align="center">
+<div align="center"><a href="https://www.linkedin.com/in/abhishek-dahiya-715765266/">
+<img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Dahiya-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a><a href="mailto:abhishekdahiya281@gmail.com">
+<img src="https://img.shields.io/badge/Email-abhishekdahiya281%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a><a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Visit%20Profile-181717?style=for-the-badge&logo=github"/>
+</a><br/><br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=abhishekdahiya01&show_icons=true&hide_border=true&bg_color=0D1117&title_color=54D9FF&text_color=FFFFFF&icon_color=8B5CF6" alt="GitHub statistics" />
+✨ BUILD · CREATE · INNOVATE
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekdahiya01&layout=compact&hide_border=true&bg_color=0D1117&title_color=54D9FF&text_color=FFFFFF" alt="Most used programming languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=abhishekdahiya01&hide_border=true&background=0D1117&ring=54D9FF&fire=8B5CF6&currStreakLabel=54D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" alt="GitHub contribution streak" />
-
-</div>
-
----
-
-## Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/abhishek-dahiya-715765266/">LinkedIn</a>
-&nbsp; • &nbsp;
-<a href="https://github.com/abhishekdahiya01">GitHub</a>
-&nbsp; • &nbsp;
-<a href="mailto:abhishekdahiya281@gmail.com">Email</a>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:082F49,100:1D4ED8&height=15" />
-
-</div>
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:007CF0,50:24105A,100:050816"/></div>
