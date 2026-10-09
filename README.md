@@ -1,128 +1,223 @@
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:24105A,100:007CF0&text=ABHISHEK%20DAHIYA&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20GENERATIVE%20AI&descAlignY=58&descSize=14&animation=fadeIn" /><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React.js+%7C+Node.js+%7C+Express.js;Building+Modern+Web+Applications;Exploring+Generative+AI+%26+RAG" /><p>
-<a href="https://www.linkedin.com/in/abhishek-dahiya-715765266/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-<a href="mailto:abhishekdahiya281@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-Profile-7C3AED?style=for-the-badge&logo=github"/></a>
-</p><img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/></div>---
 
-👨‍💻 About Me
 
-Hi, I'm Abhishek Dahiya, a Full Stack Developer interested in building modern, secure, and scalable web applications.
+<!--
+  ABHISHEK DAHIYA — FUTURISTIC GITHUB PROFILE
+  Replace YOUR_GITHUB_USERNAME and project placeholders.
+  Upload your banner to assets/banner.png.
+-->
 
-- 💻 Frontend development with React.js and Tailwind CSS.
-- ⚙️ Backend development with Node.js, Express.js, and REST APIs.
-- 🔐 Authentication, authorization, and API security.
-- 🤖 Exploring Generative AI, RAG, and Ollama.
-- 🚀 Interested in modern UI design and immersive 3D websites.
+<div align="center">
 
----
+<!-- CINEMATIC HERO BANNER -->
+<img src="assets/banner.png" width="100%" alt="Abhishek Dahiya — Full-Stack Developer, Building the Future with Code and AI" />
 
-🛠️ Technical Skills
+<br/>
 
-Frontend Development
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=700&color=00E5FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React.js+%26+Node.js+Developer;Generative+AI+Enthusiast;RAG+Application+Builder" alt="Animated developer introduction" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind"/>
-</p>Backend Development
+<br/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql"/>
-</p>"RESTful APIs" · "MVC Architecture" · "JWT Authentication" · "RBAC" · "bcrypt"
+**Engineering modern web experiences. Exploring the future of AI.**
 
-Integrations & Libraries
+<a href="https://www.linkedin.com/in/abhishek-dahiya-715765266/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a>
+<a href="mailto:abhishekdahiya281@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-00CFFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email"/>
+</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-Explore-111827?style=for-the-badge&logo=github&logoColor=white" alt="Visit GitHub profile"/>
+</a>
 
-"Razorpay" (https://img.shields.io/badge/Razorpay-Integration-3395FF?style=flat-square)
-"QR Code" (https://img.shields.io/badge/QR-Code%20Generation-7C3AED?style=flat-square)
-"Nodemailer" (https://img.shields.io/badge/Nodemailer-Email%20Services-22C55E?style=flat-square)
-
-DevOps & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,git,github,postman,swagger"/>
-</p>"Agile / Scrum" · "API Testing" · "API Documentation"
-
-Generative AI
-
-"RAG" (https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-7C3AED?style=for-the-badge)
-"Generative AI" (https://img.shields.io/badge/Generative-AI-2563EB?style=for-the-badge)
-"Ollama" (https://img.shields.io/badge/Ollama-Local%20LLMs-111827?style=for-the-badge)
+</div>
 
 ---
 
-📊 GitHub Statistics
+## ◈ ABOUT ME
 
-<div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7C3AED&text_color=FFFFFF" /><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" /><img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&ring=7C3AED&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=AAAAAA" /></div>---
+Hi, I'm **Abhishek Dahiya** — a Full-Stack Developer passionate about building modern, scalable, and intelligent digital experiences.
 
-📈 Contribution Graph
+I build modern web applications, scalable backend systems, and AI-powered experiences. My interests include full-stack engineering, API development, Retrieval-Augmented Generation (RAG), and Generative AI.
 
-<div align="center"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=00D9FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" /></div>---
+- Building responsive and user-focused web applications.
+- Developing backend services and RESTful APIs.
+- Exploring Generative AI, RAG pipelines, and Ollama.
+- Working with authentication, authorization, and database systems.
+- Learning, experimenting, and turning ideas into practical solutions.
 
-🚀 Featured Projects
+> `BUILD` → `INNOVATE` → `OPTIMIZE` → `REPEAT`
 
-«Replace these examples with your actual project details and repository links.»
+---
+
+## ◈ TECHNOLOGY ECOSYSTEM
+
+### Frontend Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" alt="HTML5, CSS3, JavaScript, React and Tailwind CSS"/>
+</p>
+
+### Backend Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js and Express.js"/>
+</p>
+
+`RESTful APIs` · `MVC Architecture`
+
+### Database & Authentication
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL"/>
+</p>
+
+`JWT` · `RBAC` · `bcrypt`
+
+### Integrations & Utilities
+
+`Razorpay` · `QR Code Generation` · `Nodemailer`
+
+### DevOps & Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel&theme=dark" alt="Docker, Kubernetes and Vercel"/>
+</p>
+
+### Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,swagger&theme=dark" alt="Git, GitHub, Postman and Swagger"/>
+</p>
+
+`Agile / Scrum`
+
+### Generative AI
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python technology icon"/>
+</p>
+
+`Retrieval-Augmented Generation (RAG)` · `Generative AI` · `Ollama`
+
+---
+
+## ◈ GITHUB ANALYTICS
+
+<div align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=8B5CF6&text_color=C9D1D9&include_all_commits=true" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&langs_count=8" alt="Most-used programming languages"/>
+</a>
+
+<br/>
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&ring=00E5FF&fire=8B5CF6&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak"/>
+
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=00E5FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
+
+</div>
+
+<sub>Analytics depend on publicly available GitHub data and third-party service availability. Cards may be unavailable or rate-limited.</sub>
+
+---
+
+## ◈ FEATURED PROJECTS
+
+<div align="center">
+
+<a href="REPOSITORY_URL">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_NAME_1&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&icon_color=8B5CF6" alt="Featured project one"/>
+</a>
+<a href="REPOSITORY_URL">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_NAME_2&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&icon_color=8B5CF6" alt="Featured project two"/>
+</a>
+
+</div>
+
+### `01` — PROJECT_NAME_1
+
+> Replace this with a short description of your first project, its purpose, and the problem it solves.
+
+**Stack:** `React.js` · `Node.js` · `MySQL`
+
+[GitHub Repository](REPOSITORY_URL) · [Live Demo](LIVE_DEMO_URL)
+
+### `02` — PROJECT_NAME_2
+
+> Replace this with a description of your second project and its key features.
+
+**Stack:** `JavaScript` · `Express.js` · `REST API`
+
+[GitHub Repository](REPOSITORY_URL) · [Live Demo](LIVE_DEMO_URL)
+
+### `03` — PROJECT_NAME_3
+
+> Replace this with a description of your third project, including relevant AI, RAG, or full-stack capabilities if applicable.
+
+**Stack:** `Generative AI` · `RAG` · `Ollama`
+
+[GitHub Repository](REPOSITORY_URL) · [Live Demo](LIVE_DEMO_URL)
+
+---
+
+## ◈ WHAT I'M EXPLORING
 
 <table>
 <tr>
-<td width="50%">💻 Full Stack Web App
+<td width="50%" valign="top">
 
-A modern web application with a responsive UI and backend APIs.
+### Full-Stack Systems
 
-Tech: React, Node.js, Express, MySQL
-
-"View Repository" (https://github.com/YOUR_GITHUB_USERNAME/PROJECT_1)
-
-</td>
-<td width="50%">🔐 Secure REST API
-
-An API project showcasing authentication and role-based access.
-
-Tech: Node.js, JWT, RBAC, bcrypt, Swagger
-
-"View Repository" (https://github.com/YOUR_GITHUB_USERNAME/PROJECT_2)
+- Responsive frontend experiences
+- Scalable backend architecture
+- Secure authentication and authorization
+- RESTful API design
 
 </td>
-</tr>
-<tr>
-<td width="50%">🤖 Generative AI Project
+<td width="50%" valign="top">
 
-An AI application exploring RAG and local language models.
+### Generative AI
 
-Tech: RAG, Generative AI, Ollama
-
-"View Repository" (https://github.com/YOUR_GITHUB_USERNAME/PROJECT_3)
-
-</td>
-<td width="50%">💳 Payment & QR Integration
-
-A project placeholder for payment processing and QR code generation.
-
-Tech: Razorpay, QR Code, Node.js
-
-"View Repository" (https://github.com/YOUR_GITHUB_USERNAME/PROJECT_4)
+- Retrieval-Augmented Generation
+- LLM-powered applications
+- Local AI experimentation with Ollama
+- AI integration in web applications
 
 </td>
 </tr>
-</table>---
-
-🎯 Current Focus
-
-- ⚡ Building modern full-stack applications.
-- 🔒 Developing secure and scalable backend APIs.
-- 🧠 Exploring RAG and Generative AI.
-- 🌐 Experimenting with React Three Fiber and Three.js.
-- 🎨 Creating premium, interactive developer portfolio experiences.
+</table>
 
 ---
 
-🤝 Connect With Me
+## ◈ CONNECT WITH ME
 
-<div align="center"><a href="https://www.linkedin.com/in/abhishek-dahiya-715765266/">
-<img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Dahiya-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a><a href="mailto:abhishekdahiya281@gmail.com">
-<img src="https://img.shields.io/badge/Email-abhishekdahiya281%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a><a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Visit%20Profile-181717?style=for-the-badge&logo=github"/>
-</a><br/><br/>
+<div align="center">
 
-✨ BUILD · CREATE · INNOVATE
+**Have an idea to build? Let's connect and create something meaningful.**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:007CF0,50:24105A,100:050816"/></div>
+<a href="https://www.linkedin.com/in/abhishek-dahiya-715765266/">
+  <img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Dahiya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
+</a>
+
+<a href="mailto:abhishekdahiya281@gmail.com">
+  <img src="https://img.shields.io/badge/Email-abhishekdahiya281%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Abhishek"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-My%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:075985,100:6D28D9&height=120&section=footer" width="100%" alt="Decorative blue and violet footer"/>
+
+**KEEP BUILDING · KEEP EXPLORING · KEEP GROWING**
+
+<sub>Designed with curiosity, powered by code, inspired by the future.</sub>
+
+</div>
