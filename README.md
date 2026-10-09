@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=700&color=00E5FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React.js+%26+Node.js+Developer;Generative+AI+Enthusiast;RAG+Application+Builder" alt="Animated developer introduction" />
+
 
 <br/>
 
