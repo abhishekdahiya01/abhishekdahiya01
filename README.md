@@ -1,19 +1,45 @@
-```markdown
+<!--
+  GITHUB PROFILE README
+  Owner: Abhishek Dahiya
+
+  BEFORE PUBLISHING:
+  1. Replace YOUR_GITHUB_USERNAME everywhere.
+  2. Replace YOUR_PROJECT_REPO_1 and YOUR_PROJECT_REPO_2.
+  3. Add assets/banner.png after creating your custom banner.
+  4. Remove any project cards that do not exist.
+-->
+
 <div align="center">
 
-<img src="./assets/hero-banner.svg" width="100%" alt="Futuristic neon developer banner" />
+<!-- CINEMATIC HERO BANNER
+     Create your own banner and save it as assets/banner.png.
+     See the setup guide below.
+-->
+<img src="assets/banner.png" alt="Abhishek Dahiya — Full-Stack Developer and Generative AI Enthusiast" width="100%" />
 
-# ABHISHEK DAHIYA
+<br/>
 
-### FULL STACK DEVELOPER
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=54D9FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Building+Modern+Web+Applications;Backend+Engineering+%7C+API+Design;Exploring+Generative+AI+%26+RAG" alt="Animated introduction: Full-Stack Developer, modern web applications, backend engineering, and Generative AI" />
+</a>
 
-**Turning Ideas into Scalable Solutions**
+<br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhishekdahiya01)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-dahiya-715765266/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dahiya281@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/abhishek-dahiya-715765266/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  <a href="mailto:abhishekdahiya281@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get%20in%20touch-54D9FF?style=flat-square&logo=gmail&logoColor=white" alt="Send an email" />
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=flat-square&logo=github&logoColor=white" alt="Explore my GitHub repositories" />
+  </a>
+</p>
 
-**Bhopal, Madhya Pradesh, India**
+<p>
+  <em>Engineering thoughtful experiences, reliable systems, and AI-powered solutions.</em>
+</p>
 
 </div>
 
@@ -21,129 +47,138 @@
 
 ## About Me
 
-I'm a Full Stack Developer passionate about building modern web applications, scalable backend services, and responsive user experiences.
+I'm **Abhishek Dahiya**, a Full-Stack Developer interested in building modern web applications and dependable backend systems.
 
-- Developing full-stack applications using React.js, Node.js, and Express.js.
-- Designing REST APIs and working with relational and NoSQL databases.
-- Exploring cloud deployment, DevOps, and Generative AI.
-- Focused on clean code, practical solutions, and continuous learning.
+My work and learning interests span responsive frontend experiences, RESTful API development, secure authentication, database integration, and payment integrations. I'm also exploring **Generative AI, Retrieval-Augmented Generation (RAG), and Ollama** to understand how AI can make applications more useful and context-aware.
+
+I value readable code, practical problem-solving, maintainable architecture, and continuous learning.
+
+- **Frontend:** Responsive interfaces and component-driven development.
+- **Backend:** API design, authentication, authorization, and MVC architecture.
+- **Data:** Relational database design and MySQL integration.
+- **AI:** Exploring RAG pipelines, local language models, and AI-powered applications.
+- **Engineering:** Testing, debugging, API documentation, and deployment workflows.
 
 ---
 
-## Technical Skills
-
-<div align="center">
+## Technology Stack
 
 ### Frontend Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" alt="HTML5, CSS, JavaScript, React, and Tailwind CSS" />
+</p>
 
 ### Backend Development
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js and Express.js" />
+</p>
 
-### Databases
+**Core concepts:** RESTful APIs · MVC Architecture · API Integration
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+### Database, Authentication & Security
 
-### DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL database" />
+</p>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+**Security:** JWT Authentication · Role-Based Access Control (RBAC) · bcrypt
 
-### Integrations & AI
+### AI & Generative Technologies
 
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-111111?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/Generative_AI-0891B2?style=for-the-badge)
+<p>
+  <img src="https://skillicons.dev/icons?i=ollama&theme=dark" alt="Ollama for local language model workflows" />
+</p>
 
-</div>
+**Focus areas:** Generative AI · Retrieval-Augmented Generation (RAG) · Local LLM workflows
+
+### Cloud, Deployment & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel&theme=dark" alt="Docker, Kubernetes, and Vercel" />
+</p>
+
+### Tools & Integrations
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,swagger&theme=dark" alt="Git, GitHub, Postman, and Swagger" />
+</p>
+
+**Additional tools:** Razorpay · QR Code Generation · Nodemailer
+
+### Development Practices
+
+`Agile / Scrum` · `Responsive Web Design` · `Debugging` · `Problem Solving` · `API Documentation`
 
 ---
 
-## Animated Technology Stack
+## GitHub Analytics
 
 <div align="center">
 
-<img src="./assets/technology-animation.svg" width="100%" alt="Technology names moving along glowing neon lines" />
+<!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username. -->
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0B1020&title_color=54D9FF&text_color=D8E5F5&icon_color=8B7CFF&rank_icon=github" alt="GitHub account statistics for Abhishek Dahiya" />
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0B1020&title_color=54D9FF&text_color=D8E5F5" alt="Estimated distribution of programming languages in my public GitHub repositories" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0B1020&ring=54D9FF&fire=8B7CFF&currStreakLabel=54D9FF&sideLabels=D8E5F5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B9BB4" alt="GitHub contribution streak statistics" />
 
 </div>
 
-Technologies represented in my development toolkit:
-
-`HTML5` · `CSS3` · `JavaScript` · `React.js` · `Tailwind CSS` · `Node.js` · `Express.js` · `REST APIs` · `MySQL` · `MongoDB` · `PostgreSQL` · `JWT Authentication` · `Docker` · `Kubernetes` · `Vercel` · `Git` · `GitHub` · `Postman` · `Swagger` · `Razorpay` · `Twilio` · `RAG` · `Ollama` · `Generative AI`
+<sub>Statistics are generated by third-party services and may not always be available. The language card estimates language distribution in repositories; it does not represent overall programming proficiency. Contribution and streak calculations can differ between services.</sub>
 
 ---
 
-## GitHub Statistics
+## Featured Projects
+
+A selection of projects demonstrating practical engineering, clean implementation, and continuous learning.
+
+<!-- PROJECT CARD 1: Replace the repository name and description.
+     Remove this card if the project is not published yet.
+-->
+<div align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_PROJECT_REPO_1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_PROJECT_REPO_1&hide_border=true&bg_color=0B1020&title_color=54D9FF&text_color=D8E5F5&icon_color=8B7CFF" alt="Featured project repository card: YOUR_PROJECT_REPO_1" />
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_PROJECT_REPO_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_PROJECT_REPO_2&hide_border=true&bg_color=0B1020&title_color=54D9FF&text_color=D8E5F5&icon_color=8B7CFF" alt="Featured project repository card: YOUR_PROJECT_REPO_2" />
+</a>
+
+</div>
+
+### Project details to add
+
+For each featured repository, include:
+
+- **Problem:** What does the project solve?
+- **Solution:** What did you build?
+- **Technology:** Which tools and frameworks does it use?
+- **Highlights:** What can a reviewer explore in the code?
+- **Demo:** Link to a live deployment if available.
+
+Prioritize complete, working projects over placeholder cards. Do not list a demo, feature, or achievement unless it actually exists.
+
+---
+
+## Let's Connect
+
+Interested in full-stack development, backend engineering, and practical applications of Generative AI.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abhishekdahiya01&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics" />
+<a href="https://www.linkedin.com/in/abhishek-dahiya-715765266/">
+  <img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Dahiya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Abhishek Dahiya on LinkedIn" />
+</a>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekdahiya01&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=abhishekdahiya01&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
-*Statistics are loaded from external services and may occasionally be unavailable.*
-
----
-
-## Featured Project
-
-### SafarSaathi — Travel Booking Platform
-
-A multi-service travel-booking platform designed around flight, hotel, train, and bus booking workflows.
-
-**Key areas:**
-- Travel search and booking experiences.
-- Responsive customer-facing interface.
-- Backend APIs and database integration.
-- Authentication and payment workflows.
-- Booking and ticket-management functionality.
-
-**Technology stack:** React.js, Node.js, Express.js, MySQL, JWT, Razorpay, Tailwind CSS.
-
-- **GitHub Repository:** Add your verified SafarSaathi repository URL.
-- **Live Demo:** Add your verified, currently accessible deployment URL.
-
-### Explore More Projects
-
-Visit my [GitHub repositories](https://github.com/abhishekdahiya01?tab=repositories) to explore my work.
-
----
-
-## Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-abhishekdahiya01-181717?style=for-the-badge&logo=github)](https://github.com/abhishekdahiya01)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek_Dahiya-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhishek-dahiya-715765266/)
-
-[![Email](https://img.shields.io/badge/Email-dahiya281%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dahiya281@gmail.com)
-
-**Open to learning, collaboration, and exciting development opportunities.**
+<a href="mailto:abhishekdahiya281@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-54D9FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Abhishek Dahiya" />
+</a>
 
 </div>
 
@@ -151,7 +186,6 @@ Visit my [GitHub repositories](https://github.com/abhishekdahiya01?tab=repositor
 
 <div align="center">
 
-*Building meaningful products, one commit at a time.*
+<sub>Building thoughtfully. Learning continuously. Engineering for impact.</sub>
 
 </div>
-```
