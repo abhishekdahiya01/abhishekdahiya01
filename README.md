@@ -112,7 +112,7 @@ I enjoy solving practical problems through clean code, thoughtful architecture, 
 
 ## Featured Projects
 
-### 01. SafarSaathi — Travel Booking Platform
+### 01. SafniVo — Travel Booking Platform
 
 A multi-service travel-booking application designed to bring different travel services into one platform.
 
