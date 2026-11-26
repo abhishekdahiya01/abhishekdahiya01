@@ -1,235 +1,300 @@
 
 <div align="center">
 
-# ABHISHEK DAHIYA
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,30:0F172A,65:1D4ED8,100:7C3AED&text=ABHISHEK%20DAHIYA&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER&descSize=20&descAlignY=58&animation=fadeIn" />
 
-### Full Stack Developer
-
-**Building modern web applications, scalable backend systems & reliable digital solutions.**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+Express.js;Backend+%7C+Database+%7C+Cloud;Building+Scalable+Digital+Solutions" />
 
 <br/>
 
+<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK%20DEVELOPMENT-2563EB?style=for-the-badge&labelColor=020617" />
+<img src="https://img.shields.io/badge/INTEREST-AI%20%7C%20CLOUD%20%7C%20DEVOPS-7C3AED?style=for-the-badge&labelColor=020617" />
+
+<br/><br/>
+
 <a href="https://github.com/abhishekdahiya01">
-  <img src="https://img.shields.io/badge/GitHub-Profile-161B22?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Portfolio-FFFFFF?style=for-the-badge&logo=github&logoColor=000000" />
 </a>
 <a href="https://www.linkedin.com/in/abhishek-dahiya-715765266/">
-  <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 <a href="mailto:dahiya281@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-555555?style=flat-square&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2563EB,50:06B6D4,100:6366F1" width="100%" />
+<img src="https://komarev.com/ghpvc/?username=abhishekdahiya01&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" />
 
 </div>
 
-## Profile
+---
 
-I'm a Full Stack Developer based in **Bhopal, India**, focused on developing modern, responsive and scalable web applications.
+# 👨‍💻 About Me
 
-My experience includes frontend development, backend engineering, REST API development, database management, authentication systems, payment integrations and application deployment.
+<img align="right" width="280" src="https://github-readme-stats.vercel.app/api?username=abhishekdahiya01&show_icons=true&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=8B5CF6&text_color=CBD5E1&rank_icon=github" />
 
-I enjoy transforming business requirements into practical software solutions with an emphasis on clean code, maintainability, performance and user experience.
+I'm **Abhishek Dahiya**, a Full Stack Developer from **Bhopal, India**, passionate about building modern, scalable and user-focused web applications.
 
-- **Frontend:** Responsive UI development and modern web interfaces.
-- **Backend:** REST APIs, server-side logic and application architecture.
-- **Database:** Relational and NoSQL database design.
-- **Security:** Authentication, authorization and secure application workflows.
-- **Integrations:** Payments, OTP, email and third-party services.
-- **Exploring:** Cloud computing, AWS, AI and modern infrastructure.
+I work across frontend and backend development, building responsive interfaces, RESTful APIs, database-driven systems, secure authentication and third-party integrations.
+
+### My Approach
+
+- Build clean and responsive user interfaces.
+- Develop scalable backend services and APIs.
+- Design efficient database structures.
+- Implement secure authentication and authorization.
+- Integrate payment and communication services.
+- Explore cloud infrastructure and AI technologies.
+
+<br clear="right"/>
 
 ---
 
-## Technical Skills
+# ⚡ Technical Universe
+
+<div align="center">
+
+### FRONTEND DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
+
+### BACKEND DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+
+### DATABASE TECHNOLOGIES
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" />
+
+### DEVOPS & CLOUD
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,vercel&theme=dark" />
+
+### DEVELOPMENT TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,swagger,vscode&theme=dark" />
+
+</div>
+
+---
+
+## 🧩 Technical Expertise
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Frontend
+### Frontend Engineering
 
-- HTML5
-- CSS3
-- JavaScript (ES6+)
+- HTML5 & CSS3
+- JavaScript ES6+
 - React.js
 - Tailwind CSS
+- Responsive Design
+- Component-Based Architecture
 
 </td>
+
 <td width="50%" valign="top">
 
-### Backend
+### Backend Engineering
 
 - Node.js
 - Express.js
-- RESTful APIs
+- RESTful API Development
 - MVC Architecture
-- API Integration
-- Middleware & Validation
+- Middleware
+- Request Validation
+- Error Handling
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-### Databases
+### Database Engineering
 
 - MySQL
 - PostgreSQL
 - MongoDB
 - Database Design
 - Query Optimization
+- Data Modeling
 
 </td>
+
 <td width="50%" valign="top">
 
-### Authentication & Security
+### Security & Authentication
 
-- JWT Authentication
+- JWT
 - Role-Based Access Control
 - bcrypt
 - OTP Verification
-- Secure API Development
+- Authentication & Authorization
+- Secure API Practices
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-### Integrations
+### Integrations & Services
 
-- Razorpay
-- Twilio
+- Razorpay Payment Gateway
+- Twilio SMS & OTP
 - Nodemailer
 - QR Code Generation
-- Third-Party APIs
+- Third-Party API Integration
 
 </td>
+
 <td width="50%" valign="top">
 
-### DevOps & Cloud
+### AI & Emerging Tech
 
-- Git & GitHub
-- Docker
-- Kubernetes
-- Vercel
-- AWS EC2 (Hands-on Learning)
+- Generative AI
+- RAG
+- Ollama
+- AI Chatbots
+- Context-Aware Retrieval
+- AI Application Development
 
 </td>
 </tr>
 </table>
 
-### Tools & Technologies
+---
 
-<div align="left">
+# 🚀 Featured Project
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mysql,mongodb,postgres,docker,kubernetes,aws,git,github,postman,vscode&perline=8" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:1D4ED8,50:4F46E5,100:7C3AED&text=SAFARSAATHI&fontColor=FFFFFF&fontSize=30&fontAlignY=55" width="90%" />
+
+### Travel Booking & Management Platform
+
+A full-stack travel application designed to integrate multiple travel services into a unified platform with booking workflows, secure authentication and centralized trip management.
 
 </div>
 
-### AI & Emerging Technologies
+### ✨ Core Modules
 
-- Generative AI
-- Retrieval-Augmented Generation (RAG)
-- Ollama
-- AI-powered Chatbots
-- Context-aware information retrieval
+| Module | Description |
+|---|---|
+| ✈️ Flights | Flight search and booking workflows |
+| 🏨 Hotels | Hotel search and reservation |
+| 🚆 Railway | Railway booking module |
+| 🚌 Bus | Bus booking functionality |
+| 🔐 Authentication | Secure user authentication |
+| 💳 Payments | Razorpay payment integration |
+| 📧 Communication | OTP and email verification |
+| ⚙️ Admin | Administrative dashboard & management |
+| 🎫 Trips | Booking and trip management |
 
----
+### 🛠️ Built With
 
-## Featured Project
+<div align="center">
 
-### SafarSaathi — Travel Booking Platform
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,tailwind,docker&theme=dark" />
 
-A multi-service travel booking application designed to provide users with a unified platform for travel planning and booking management.
-
-**Modules & Features**
-
-- Flight booking workflows
-- Hotel search and reservation
-- Railway booking module
-- Bus booking functionality
-- User authentication and authorization
-- Booking and trip management
-- Razorpay payment integration
-- OTP and email verification
-- Admin dashboard and management tools
-- Responsive user interface
-
-**Technology Stack**
+</div>
 
 `React.js` `Node.js` `Express.js` `MySQL` `JWT` `Razorpay` `Tailwind CSS` `Docker`
 
-<div align="left">
+<div align="center">
 
 <a href="https://github.com/abhishekdahiya01/SafarSaathi">
-<img src="https://img.shields.io/badge/Source_Code-GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/EXPLORE_SOURCE-0F172A?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://safarsaathi-client.onrender.com">
-<img src="https://img.shields.io/badge/Live_Application-Visit_Project-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/OPEN_LIVE_DEMO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## GitHub Overview
+# 📊 GitHub Performance
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abhishekdahiya01&show_icons=true&hide_border=true&theme=transparent&title_color=2563EB&icon_color=06B6D4&text_color=64748B&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhishekdahiya01&show_icons=true&hide_border=true&theme=tokyonight&bg_color=020617&title_color=38BDF8&icon_color=818CF8&text_color=CBD5E1&rank_icon=github" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekdahiya01&layout=compact&hide_border=true&theme=transparent&title_color=2563EB&text_color=64748B&langs_count=6" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekdahiya01&layout=compact&hide_border=true&theme=tokyonight&bg_color=020617&title_color=38BDF8&text_color=CBD5E1&langs_count=8" />
+
+<br/><br/>
+
+<img width="85%" src="https://streak-stats.demolab.com?user=abhishekdahiya01&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekdahiya01&bg_color=020617&color=CBD5E1&line=38BDF8&point=8B5CF6&area=true&hide_border=true" />
+
+</div>
+
+---
+
+# 🔮 Currently Exploring
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AWS-Cloud_Computing-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/AI-Generative_AI-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Backend-System_Design-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DevOps-Containerization-06B6D4?style=for-the-badge" />
+
+</div>
+
+- Cloud Computing & AWS
+- Backend Architecture & System Design
+- Docker & Containerization
+- AI Integration & RAG Applications
+- Database Performance & Optimization
+- Scalable Application Development
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+### Open to Collaboration & Professional Opportunities
+
+Let's connect, collaborate and build something meaningful.
 
 <br/>
 
-<img width="95%" src="https://streak-stats.demolab.com?user=abhishekdahiya01&hide_border=true&theme=transparent&ring=2563EB&fire=06B6D4&currStreakLabel=2563EB" />
+<a href="https://github.com/abhishekdahiya01">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-</div>
+<a href="https://www.linkedin.com/in/abhishek-dahiya-715765266/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
----
+<a href="mailto:dahiya281@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-## Development Activity
+<br/><br/>
 
-<div align="center">
+📍 **Bhopal, Madhya Pradesh, India**
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekdahiya01&bg_color=FFFFFF00&color=64748B&line=2563EB&point=06B6D4&area=true&hide_border=true" />
+<br/>
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:020617,40:1D4ED8,100:7C3AED" width="100%" />
 
----
-
-## Currently Focused On
-
-- Building production-ready Full Stack applications
-- Improving backend architecture and API design
-- Learning AWS and Cloud infrastructure
-- Exploring Docker and container orchestration
-- Working with AI, RAG and intelligent applications
-- Writing maintainable and scalable code
-
----
-
-## Connect With Me
-
-<div align="left">
-
-**Location:** Bhopal, Madhya Pradesh, India
-
-**GitHub:** [abhishekdahiya01](https://github.com/abhishekdahiya01)
-
-**LinkedIn:** [Connect professionally](https://www.linkedin.com/in/abhishek-dahiya-715765266/)
-
-**Email:** [dahiya281@gmail.com](mailto:dahiya281@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-*Building with purpose. Learning continuously. Developing for impact.*
+### `BUILD • LEARN • INNOVATE • REPEAT`
 
 </div>
